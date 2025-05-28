@@ -70,20 +70,6 @@ Minimize total staff used per shift while satisfying all operational constraints
 
 ---
 
-## 🗂 Folder Structure
-```
-📁 library-staff-scheduler
-├── 📄 README.md
-├── 📁 data
-│   └── staff_shifts.xlsx
-├── 📁 model
-│   └── optimization_model.xlsx
-└── 📁 docs
-    └── Final_Report.pdf
-```
-
----
-
 ## 📎 References
 - Alwadood et al., 2021 – Hotel Staff Scheduling with BIP
 - Excel Solver documentation
